@@ -1,6 +1,11 @@
 // BEGIN_INTERNALS
 /*
+LAST_COMPILE_TIME: 1477429006
+DIR: code code\_helpers code\ATMOSPHERICS code\controllers code\controllers\Processes code\datums code\datums\outfits code\datums\outfits\jobs code\game code\game\jobs code\game\jobs\job code\game\machinery code\game\machinery\doors code\game\objects maps maps\exodus 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1347
+WINDOW: maps\exodus\exodus-0.dmm;maps\exodus\exodus-1.dmm;maps\exodus\exodus-2.dmm;code\game\jobs\job\captain.dm;code\game\jobs\job\commissariat.dm;code\game\jobs\job\medical.dm
+FILE: maps\exodus\exodus-1.dmm
 */
 // END_INTERNALS
